@@ -386,7 +386,7 @@ Created a new comment and return the new comment.
   * **Code:** 400   
   **Content:** `{status: 'failed', error : 'error missing body' }`
 
-## How To Run In Local
+## How To Run 
 
 ### Installation
 
