@@ -400,9 +400,13 @@ npm install
 ```
 
 ### Development Server
-Start the development server on http://localhost:3000   
+Start the development server on http://localhost:8080   
 Make sure you dont have problem while connecting Atlas MongoDB  
 or You can use your own database server and edit the url in .env file  
+
+### Production Server
+Start the development server on your Railway.app
+Configure enviroment by adding Variables and match with .env on REPO 
 
 ```
 # npm
